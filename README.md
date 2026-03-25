@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Verensia Ong
 
-<!--
-**VerensiaOng/VerensiaOng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:ff758c&height=200&section=header&text=VERENSIA%20ONG&fontSize=30&fontColor=ffffff"/>
+</p>
 
-Here are some ideas to get you started:
+## 💫 About Me
+🎓 Mahasiswa Sistem Informasi
+💻 Tertarik pada Web Development & UI/UX  
+📱 Lagi belajar bikin aplikasi & sistem  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills & Tech Stack
+💻 Programming:
+- HTML, CSS, JavaScript
+- PHP (CodeIgniter 3)
+- C# (.NET)
+
+🛠 Tools:
+- Figma
+- MySQL
+- XAMPP
+- Visual Studio
+
+---
+
+## 🌐 Connect With Me
+- LinkedIn: (isi punyamu)
+- Instagram / Twitter: (isi punyamu)
+
+---
+
+## ✨ Fun Facts
+- ☕ Suka eksplor cafe  
+- 🎨 Suka desain UI  
+
+
