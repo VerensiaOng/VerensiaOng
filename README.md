@@ -26,8 +26,7 @@
 ---
 
 ## 🌐 Connect With Me
-- LinkedIn: (isi punyamu)
-- Instagram / Twitter: (isi punyamu)
+- Instagram: vrnsiia_
 
 ---
 
